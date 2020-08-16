@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "name": "test_session5",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 190
+    }
+  ]
+}
+© 2020 GitHub, Inc
