@@ -31,4 +31,4 @@
 
 ## speed_converter(speed_kmph, dist='km', time='min'):
 
-#### The input speed to this function is kmph and converts speed to other units of measurements.
+#### The input speed to this function is kmph and converts speed to other units of measurements
