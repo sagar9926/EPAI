@@ -151,4 +151,4 @@ def test_speed_converter_numerator_unit():
         
 def test_speed_converter_denominator_unit():
     with pytest.raises(ValueError):
-        session5.time_it(speed_converter,speed_kmph= 20,dist='km', time='EPAI')
+        session5.time_it(speed_converter,speed_kmph= 20,dist='km', time='EPAII')
